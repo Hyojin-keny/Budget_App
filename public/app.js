@@ -3,7 +3,7 @@
 // ===================================
 
 // API endpoint configuration
-const API_URL = 'http://localhost:5000/api';
+const API_URL = "";
 
 document.addEventListener("DOMContentLoaded", () => {
     const logoutBtn = document.getElementById("logoutBtn");
