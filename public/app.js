@@ -3,7 +3,7 @@
 // ===================================
 
 // API endpoint configuration
-const API_URL = "";
+const API_URL = '/api';
 
 document.addEventListener("DOMContentLoaded", () => {
     const logoutBtn = document.getElementById("logoutBtn");
